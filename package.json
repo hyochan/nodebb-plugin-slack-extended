@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-slack-extended",
+  "name": "nodebb-plugin-slack-hyo",
   "version": "0.2.0",
   "description": "NodeBB Plugin for posting new posts via Slack webhooks",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/pichalite/nodebb-plugin-slack-extended.git"
+    "url": "http://github.com/hyochan/nodebb-plugin-slack-hyo.git"
   },
   "keywords": [
     "nodebb",
@@ -13,12 +13,12 @@
     "slack"
   ],
   "author": {
-    "name": "Pichalite",
-    "email": "pichalite.com@gmail.com"
+    "name": "hyochan",
+    "email": "dooboolab@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "http://github.com/pichalite/nodebb-plugin-slack-extended/issues"
+    "url": "http://github.com/hyochan/nodebb-plugin-slack-hyo/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",

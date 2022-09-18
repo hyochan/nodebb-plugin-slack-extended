@@ -2,6 +2,14 @@
 
 NodeBB Plugin for posting new posts via [Slack](http://slack.com) webhooks.
 
+## Installation
+
+```
+npm install nodebb-plugin-slack-hyo
+```
+
+> Then rebuild and restart `NodeBB`.
+
 ## Configuration
 
 1. Install NodeBB Slack plugin and activate.
